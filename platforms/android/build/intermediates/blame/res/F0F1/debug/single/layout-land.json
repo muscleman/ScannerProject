@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/res/merged/F0F1/debug/layout-land/share.xml",
+        "source": "/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/barcodescanner-release-2.1.6/res/layout-land/share.xml"
+    },
+    {
+        "merged": "/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/res/merged/F0F1/debug/layout-land/encode.xml",
+        "source": "/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/barcodescanner-release-2.1.6/res/layout-land/encode.xml"
+    }
+]

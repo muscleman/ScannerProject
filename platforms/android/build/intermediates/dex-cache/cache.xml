@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_e8a8326c509100d75a36baebaed28a37c1bd3bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-26.0.0-alpha1_f22baf7ca0552f29025a67313802b3689e9042cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-26.0.0-alpha1_2362bc936f694ae7e6b9da6470f4c16e5cc9f78d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/barcodescanner-release-2.1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d4f602a67efec62a1db4e4b2e695e8270fd0a1c">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-barcodescanner-release-2.1.6_0a6c49c2c684debc59c0382eaa428bd39ca33218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_15d2181fa7ac16c1d5d50773bcd4bf6e832e5dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_4528a445efff7e0055955928c2035e986d71addb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-26.0.0-alpha1_73758bd58b23230b8ba6276574d5f36b8729e4b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-26.0.0-alpha1_579f068718b55a1dd9ed149e6c4983a959946e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-nativescript-optimized_f80a205aac6e256c04f4562a67ea850189782d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-26.0.0-alpha1_b10f02b9b10c53ea14de4eb3add91eb8c542eba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_ff68f2e785e1b4bb8a206e4d353c076fab8d5838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-26.0.0-alpha1_38960702da82f19ba08bd5ef031ee9ab51005421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-26.0.0-alpha1_eeb6e3e66e0a3ac980c6dfa36bfe9470980af542.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_bf141c7745d6979dd181b5072ae9f62bf3a06369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-26.0.0-alpha1_e2634a88f8686610e9d0af6d699895299d57709a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/neo/AndroidStudioProjects/ScannerProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-26.0.0-alpha1_a1d4e6d6872f5a8e692ff707f6a67bcd79996bbc.jar" />
+    </item>
+
+</items>
